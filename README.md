@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yuki319jp
+- 🌱 I’m currently learning ... Python  Kotlin
+- 🔨 I”m  development Omiya Pay
+- We operate a Minecraft public server.
