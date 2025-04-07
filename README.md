@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @yuki319jp
-- 🔨 I”m  development Omiya Pay
-- We operate a Minecraft public server.
 - My Main PC is MacBook Pro 2022 13"
 
 - ### 🌱 I’m currently learning language
