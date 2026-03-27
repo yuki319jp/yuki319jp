@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuki319jp
-- My Main PC is MacBook Pro 2022 13"
+- My Main PC is ~~MacBook Pro 2022 13"~~ MacBook Air 2026 13"
 - すごく暇
 - なにかしらオープンソースで公開したい
   
