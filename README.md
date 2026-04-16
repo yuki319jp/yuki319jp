@@ -8,6 +8,7 @@ and more
 
   
 ### 🌱 I'm learning these technologies:
- <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/-Next.js-0095D5.svg?logo=Next.js&style=flat"> <img src="https://img.shields.io/badge/-TypeScript-0095D5.svg?logo=TypeScript&style=flat"> <img src="https://img.shields.io/badge/-React-0095D5.svg?logo=React&style=flat"> <img src="https://img.shields.io/badge/-SolidJS-2C4F7C.svg?logo=solid&style=flat"> <img src="https://img.shields.io/badge/-Hono-E36002.svg?logo=hono&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&logoColor=black&style=flat"> <img src="https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Deno-000000.svg?logo=deno&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&logoColor=black&style=flat"> <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-SolidJS-2C4F7C.svg?logo=solid&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Astro-0D0D0D.svg?logo=astro&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Hono-FF6B00.svg?logo=hono&logoColor=white&style=flat">
+
 ## Summary
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuki319jp&theme=swift) 
