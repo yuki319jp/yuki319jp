@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuki319jp
-- I'm N High School Student (2026.4~)]
+- I'm N High School Student (2026.4~)
 
 ### Exploring
 - Web (Frontend / Backend)
