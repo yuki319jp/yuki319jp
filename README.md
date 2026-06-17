@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @yuki319jp
 - I'm N High School Student (2026.4~)
+- よわよわえんじにゃー
 
 ### Exploring
 - Web (Frontend / Backend)
